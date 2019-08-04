@@ -1,0 +1,5 @@
+What is the number of minutes CallCenter accepts calls?(Must be a number): 16
+
+What is the probability of a phone call arriving?: 2
+Assertion failed: (prob>=0.1&&prob<=1), function getUserInput, file Main.cpp, line 45.
+Abort trap: 6

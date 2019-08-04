@@ -1,0 +1,3 @@
+What is the number of minutes CallCenter accepts calls?(Must be a positive number): -3
+Assertion failed: (timeLimit>0), function getUserInput, file Main.cpp, line 42.
+Abort trap: 6

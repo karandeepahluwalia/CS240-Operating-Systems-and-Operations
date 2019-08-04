@@ -1,0 +1,83 @@
+What is the number of minutes CallCenter accepts calls?(Must be a number): 25
+
+What is the probability of a phone call arriving?: 0.5
+Simulation Update:
+Minutes into the simulation: 5
+Calls in the Waiitng List: 0
+Calls that have been answered: 0
+
+
+Simulation Update:
+Minutes into the simulation: 10
+Calls in the Waiitng List: 2
+Calls that have been answered: 0
+
+
+Simulation Update:
+Minutes into the simulation: 15
+Calls in the Waiitng List: 2
+Calls that have been answered: 1
+
+
+Simulation Update:
+Minutes into the simulation: 20
+Calls in the Waiitng List: 5
+Calls that have been answered: 2
+
+
+Simulation Update:
+Minutes into the simulation: 25
+Calls in the Waiitng List: 6
+Calls that have been answered: 3
+
+
+No longer accepting new calls
+Simulation Update:
+Minutes into the simulation: 30
+Calls in the Waiitng List: 6
+Calls that have been answered: 3
+
+
+Simulation Update:
+Minutes into the simulation: 35
+Calls in the Waiitng List: 5
+Calls that have been answered: 4
+
+
+Simulation Update:
+Minutes into the simulation: 40
+Calls in the Waiitng List: 5
+Calls that have been answered: 4
+
+
+Simulation Update:
+Minutes into the simulation: 45
+Calls in the Waiitng List: 3
+Calls that have been answered: 6
+
+
+Simulation Update:
+Minutes into the simulation: 50
+Calls in the Waiitng List: 2
+Calls that have been answered: 7
+
+
+Simulation Update:
+Minutes into the simulation: 55
+Calls in the Waiitng List: 2
+Calls that have been answered: 7
+
+
+Simulation Update:
+Minutes into the simulation: 60
+Calls in the Waiitng List: 0
+Calls that have been answered: 9
+
+
+End of simulation
+This is the total of calls entered and answered: 10
+This is total time taken to answer all calls: 62
+This is the average wait time for a call to be answered: 5.8
+This is the average wait time for a Priority one call to be answered: No Priority one calls
+This is the average wait time for a Priority two call to be answered: 3.33333
+This is the average wait time for a Priority three call to be answered: 6.85714

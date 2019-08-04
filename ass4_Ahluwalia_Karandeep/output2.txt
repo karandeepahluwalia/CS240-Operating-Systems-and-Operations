@@ -1,0 +1,53 @@
+What is the number of minutes CallCenter accepts calls?(Must be a number): 15
+
+What is the probability of a phone call arriving?: 0.6
+Simulation Update:
+Minutes into the simulation: 5
+Calls in the Waiitng List: 1
+Calls that have been answered: 0
+
+
+Simulation Update:
+Minutes into the simulation: 10
+Calls in the Waiitng List: 2
+Calls that have been answered: 1
+
+
+Simulation Update:
+Minutes into the simulation: 15
+Calls in the Waiitng List: 3
+Calls that have been answered: 3
+
+
+No longer accepting new calls
+Simulation Update:
+Minutes into the simulation: 20
+Calls in the Waiitng List: 3
+Calls that have been answered: 3
+
+
+Simulation Update:
+Minutes into the simulation: 25
+Calls in the Waiitng List: 2
+Calls that have been answered: 4
+
+
+Simulation Update:
+Minutes into the simulation: 30
+Calls in the Waiitng List: 1
+Calls that have been answered: 5
+
+
+Simulation Update:
+Minutes into the simulation: 35
+Calls in the Waiitng List: 0
+Calls that have been answered: 6
+
+
+End of simulation
+This is the total of calls entered and answered: 7
+This is total time taken to answer all calls: 40
+This is the average wait time for a call to be answered: 5
+This is the average wait time for a Priority one call to be answered: 1.5
+This is the average wait time for a Priority two call to be answered: 3.5
+This is the average wait time for a Priority three call to be answered: 8.33333
